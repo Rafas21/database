@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Clientes – Python CLI
+# Sistema de Gerenciamento de Clientes – Python 
 
 Este é um projeto simples de terminal feito em Python para cadastrar e gerenciar dados de clientes.
 
